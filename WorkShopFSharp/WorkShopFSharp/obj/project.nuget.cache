@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JmjE88Wefdw/n6feLZTibFEXagmomzkAWVDwyyD2xBuJUKfUwYvNjP6LT7RK1hZQy7Mbt5KfmznnttQIBPO8pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Quentin\\Code\\WorkShop\\ws-fsharp\\WorkShopFSharp\\WorkShopFSharp\\WorkShopFSharp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Quentin\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
